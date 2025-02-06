@@ -4,7 +4,6 @@
 This project presents high-resolution Aluminum (Al)-based plasmonic devices in the near-infrared region, incorporating metamaterials to enhance detection accuracy and quality factor. The proposed plasmonic sensor utilizes a metal-dielectric-metal (MDM) configuration with Aluminum (Al) and Barium titanate (BTO) as high dielectric constant materials. A monolayer of Molybdenum disulfide (MoS2) is employed to enhance biomolecule adsorption on the sensor surface. The sensor is designed for the detection of cervical, blood, adrenal, and breast cancer cells, exhibiting high sensitivity and a significant figure of merit.
 
 ## Sensor Design
-The plasmonic sensor comprises multiple layers:
 1. **Substrate:** Calcium fluoride (CaF₂) prism for minimal absorption in NIR.
 2. **Metal Layers:** Aluminum (Al) layers (30 nm and 10 nm) for plasmonic resonance.
 3. **Dielectric Layer:** Barium titanate (BTO, 5 nm) for enhanced field confinement.
