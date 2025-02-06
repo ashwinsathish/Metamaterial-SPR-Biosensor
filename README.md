@@ -27,7 +27,7 @@ The plasmonic sensor comprises multiple layers:
 - **Applications:**
   - Detection of cancer cells: Cervical (HeLa), Blood (Jurkat), Adrenal (PC12), and Breast (MDA-MB-231, MCF-7)
 
-- ## Publication details
+## Publication details
 - **Title:** High Resolution Aluminum-based Plasmonic Devices Using Metamaterials for Cancer Cell Detection
 - **Authors:** A. Sathish Kumar, D. Mahanta, P. Arora
 - **Conference:** Proc. SPIE PC12990, Metamaterials XIV (6 June 2024)
