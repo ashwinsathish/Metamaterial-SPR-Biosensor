@@ -17,8 +17,7 @@ This project presents high-resolution Aluminum (Al)-based plasmonic devices in t
 - The final configuration (Al-BTO-Al-Metamaterial-TiO₂-MoS₂) demonstrated superior performance compared to conventional designs.
   - **Sensitivity:** 101.2°/RIU
   - **Figure of Merit:** 5060 RIU⁻¹
-- **Applications:**
-  - Detection of cancer cells: Cervical (HeLa), Blood (Jurkat), Adrenal (PC12), and Breast (MDA-MB-231, MCF-7)
+- **Implications:** Detection of cancer cells: Cervical (HeLa), Blood (Jurkat), Adrenal (PC12), and Breast (MDA-MB-231, MCF-7)
 
 ## Publication details
 - **Title:** High Resolution Aluminum-based Plasmonic Devices Using Metamaterials for Cancer Cell Detection
